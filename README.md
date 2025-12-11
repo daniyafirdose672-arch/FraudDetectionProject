@@ -1,5 +1,5 @@
 # Fraud Detection Project
-Author: Mohammed Junaid
+Author: Daniya Firdose
 
 ## Overview
 End-to-end fraud detection pipeline using synthetic transaction data. Includes SMOTE oversampling, Random Forest model, ROC-AUC analysis and threshold tuning.
